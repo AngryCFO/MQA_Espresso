@@ -35,7 +35,7 @@ private static final String homeFragmentText = "This is home fragment";
 chmod +x ./gradlew
 Запущен тест в режиме сборщика Gradle, проверено его успешное завершение.
 ./gradlew connectedAndroidTest
-Запущен тест, нажав кнопку запуска возле метода теста, произведен экспорт отчета теста в HTML-файл (ДОБАВИТЬ ССЫЛКУ), отчёт добавлен в issues репозитория.
+Запущен тест, нажав кнопку запуска возле метода теста, произведен экспорт отчета теста в HTML-файл, отчёт добавлен в issues репозитория.
 
 Для покрытия большинства потребностей добавлен Allure Report
 
@@ -46,7 +46,7 @@ allure --version
 androidTestImplementation 'io.qameta.allure:allure-kotlin-android:2.4.0'
 В тесте в аннотирование @RunWith(AndroidJUnit4.class) над именем класса добавленно Allure и сделан импорт:
 @RunWith(AllureAndroidJUnit4.class)
-Запущен тест ▶️ проверено его успешное завершение.
+Запущен тест, проверено его успешное завершение.
 В Android Studio в разделе Device Explorer по пути data/data/имя_проекта/files найдена и выгружена в проект папка allure-results с генерируемым отчетом.
 Для запуска отчета в консоли выполнена команда:
 allure serve

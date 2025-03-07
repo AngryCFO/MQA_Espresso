@@ -1,4 +1,4 @@
-package ru.kkuzmichev.simpleappforespresso;
+package ru.abujor.simpleappforespresso;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ru.kkuzmichev.simpleappforespresso", appContext.getPackageName());
+        assertEquals("ru.abujor.simpleappforespresso", appContext.getPackageName());
     }
 }

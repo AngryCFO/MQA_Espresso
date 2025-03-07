@@ -1,4 +1,4 @@
-package ru.kkuzmichev.simpleappforespresso;
+package ru.abujor.simpleappforespresso;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -19,7 +19,7 @@ import androidx.navigation.ui.NavigationUI;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
-import ru.kkuzmichev.simpleappforespresso.databinding.ActivityMainBinding;
+import ru.abujor.simpleappforespresso.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 

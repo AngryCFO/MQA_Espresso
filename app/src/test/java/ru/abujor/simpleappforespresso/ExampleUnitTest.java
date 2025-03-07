@@ -1,4 +1,4 @@
-package ru.kkuzmichev.simpleappforespresso;
+package ru.abujor.simpleappforespresso;
 
 import org.junit.Test;
 

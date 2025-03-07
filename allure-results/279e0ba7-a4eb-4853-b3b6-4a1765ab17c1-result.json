@@ -15,15 +15,15 @@
     ],
     "uuid": "279e0ba7-a4eb-4853-b3b6-4a1765ab17c1",
     "historyId": "aced82408d1f6932c39bb59ad7553850",
-    "fullName": "ru.kkuzmichev.simpleappforespresso.HomeFragmentTest.testHomeFragmentTextMatches",
+    "fullName": "ru.abujor.simpleappforespresso.HomeFragmentTest.testHomeFragmentTextMatches",
     "labels": [
         {
             "name": "package",
-            "value": "ru.kkuzmichev.simpleappforespresso"
+            "value": "ru.abujor.simpleappforespresso"
         },
         {
             "name": "testClass",
-            "value": "ru.kkuzmichev.simpleappforespresso.HomeFragmentTest"
+            "value": "ru.abujor.simpleappforespresso.HomeFragmentTest"
         },
         {
             "name": "testMethod",
@@ -31,7 +31,7 @@
         },
         {
             "name": "suite",
-            "value": "ru.kkuzmichev.simpleappforespresso.HomeFragmentTest"
+            "value": "ru.abujor.simpleappforespresso.HomeFragmentTest"
         },
         {
             "name": "host",
